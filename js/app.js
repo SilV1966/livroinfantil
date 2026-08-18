@@ -265,7 +265,7 @@
 
   $("#privacyLink").addEventListener("click", e => {
     e.preventDefault();
-    window.location.href = "Privacidade.html";
+    window.location.href = "privacidade.html";
   });
 
   renderBooks();
