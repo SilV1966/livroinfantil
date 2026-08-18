@@ -265,7 +265,7 @@
 
   $("#privacyLink").addEventListener("click", e => {
     e.preventDefault();
-    alert("Antes da publicação, adicione aqui sua Política de Privacidade com finalidade do tratamento, contato do responsável, prazo de retenção e forma de exclusão dos dados.");
+    window.location.href = "Privacidade.html";
   });
 
   renderBooks();
