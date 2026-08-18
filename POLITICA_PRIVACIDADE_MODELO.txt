@@ -1,14 +1,201 @@
 POLÍTICA DE PRIVACIDADE — RASCUNHO DE ESTRUTURA
 
-Antes de publicar, adapte este documento ao funcionamento real do site e faça revisão jurídica, se necessário.
+# POLÍTICA DE PRIVACIDADE
 
-1. Quem é o responsável pelo site e canal de contato.
-2. Quais dados são coletados (nome, e-mail, WhatsApp, dados de entrega).
-3. Para quais finalidades cada dado é utilizado.
-4. Base e manifestação de consentimento quando aplicável.
-5. Onde os dados são armazenados e por quanto tempo.
-6. Com quem os dados podem ser compartilhados para viabilizar entrega/pagamento.
-7. Como o titular pode pedir acesso, correção ou exclusão.
-8. Medidas de segurança adotadas.
-9. Uso de cookies/analytics, se houver.
-10. Data da última atualização.
+**Última atualização: 18 de agosto de 2026**
+
+Esta Política de Privacidade descreve como são coletados, utilizados, armazenados e eliminados os dados pessoais fornecidos pelos visitantes e compradores dos livros comercializados neste site.
+
+O tratamento dos dados pessoais é realizado com respeito à privacidade, à segurança das informações e aos princípios estabelecidos pela Lei nº 13.709/2018 — Lei Geral de Proteção de Dados Pessoais (LGPD).
+
+## 1. Responsável pelo tratamento dos dados
+
+O responsável pelo site e pelas decisões relacionadas ao tratamento dos dados pessoais é:
+
+**Silmar Vasconcelos**
+
+Contato para questões relacionadas à privacidade e aos dados pessoais:
+
+**E-mail:** [silmar_vasconcelos@yahoo.com](mailto:silmar_vasconcelos@yahoo.com)
+**WhatsApp:** (31) 98777-8667
+
+## 2. Dados pessoais coletados
+
+Para viabilizar a compra e a entrega dos livros, poderão ser coletadas as seguintes informações:
+
+* Nome completo;
+* E-mail;
+* Número de WhatsApp;
+* CEP;
+* Rua ou avenida;
+* Número do imóvel;
+* Complemento, quando informado;
+* Bairro;
+* Cidade;
+* Estado (UF).
+
+Não são solicitados dados pessoais além daqueles necessários para identificar o comprador, manter contato sobre o pedido e realizar a entrega dos produtos.
+
+## 3. Finalidade da coleta
+
+Os dados pessoais informados pelo comprador serão utilizados exclusivamente para atividades relacionadas à compra e à entrega dos livros, incluindo:
+
+* identificação do comprador;
+* registro do pedido;
+* contato para confirmação da compra;
+* confirmação do pagamento;
+* esclarecimento de dúvidas relacionadas ao pedido;
+* preparação da embalagem;
+* emissão da etiqueta de postagem;
+* envio dos livros;
+* comunicação relacionada à entrega;
+* confirmação do recebimento da compra.
+
+Os dados fornecidos para realização do pedido não serão utilizados para publicidade, formação de perfil de consumo, venda de informações ou qualquer finalidade incompatível com a compra realizada.
+
+O tratamento de dados necessários à realização e ao envio de uma compra pode estar relacionado à execução de contrato ou a procedimentos preliminares relacionados ao contrato, hipótese prevista pela LGPD.
+
+## 4. Manifestação de ciência e consentimento
+
+Antes de enviar seus dados pelo formulário de compra, o usuário deverá marcar uma opção indicando que tomou conhecimento desta Política de Privacidade e autoriza o tratamento das informações fornecidas para as finalidades relacionadas ao processamento e à entrega do pedido.
+
+Quando o consentimento for utilizado como fundamento para determinada atividade de tratamento, ele deverá representar uma manifestação livre, informada e inequívoca para uma finalidade determinada, conforme previsto na LGPD.
+
+### Texto sugerido para o formulário
+
+**☐ Li e estou de acordo com a Política de Privacidade e autorizo o tratamento dos dados pessoais informados neste formulário para processamento do pedido, contato, preparação da etiqueta de postagem e envio dos livros adquiridos.**
+
+O envio do formulário somente deverá ocorrer após a marcação desta opção.
+
+## 5. Armazenamento das informações
+
+Os dados enviados pelo formulário são armazenados em uma planilha mantida em repositório privado no Google Drive.
+
+O acesso à planilha utilizada para controle dos pedidos é restrito ao responsável pelo site.
+
+São adotadas medidas destinadas a limitar o acesso às informações e evitar acesso, utilização, alteração ou divulgação não autorizados.
+
+A LGPD determina que os agentes de tratamento adotem medidas de segurança aptas a proteger os dados pessoais contra acessos não autorizados e situações acidentais ou ilícitas.
+
+## 6. Uso dos dados para entrega dos livros
+
+Após a confirmação da compra, os dados necessários à entrega serão utilizados para gerar uma etiqueta de postagem.
+
+Essa etiqueta poderá conter informações como:
+
+**Nome do destinatário**
+**Rua/Avenida e número**
+**Complemento**
+**Bairro**
+**Cidade/UF**
+**CEP**
+
+A etiqueta será impressa e fixada na embalagem contendo o livro.
+
+A embalagem será posteriormente entregue aos **Correios ou outro serviço de entrega previamente informado ao comprador**, que terá acesso somente às informações necessárias à realização da entrega.
+
+Esse acesso ocorre exclusivamente para viabilizar o transporte e a entrega do produto adquirido.
+
+## 7. Compartilhamento das informações
+
+**Não vendemos, comercializamos, alugamos ou disponibilizamos os dados pessoais dos compradores para fins publicitários ou comerciais de terceiros.**
+
+Os dados somente poderão ser acessados por serviços necessários ao funcionamento da compra e da entrega, tais como:
+
+* serviço utilizado para armazenamento privado das informações;
+* Correios ou empresa responsável pela entrega;
+* autoridades públicas, exclusivamente quando houver obrigação legal ou determinação válida.
+
+Fora dessas situações, não é realizado compartilhamento voluntário das informações pessoais fornecidas pelo comprador.
+
+## 8. Prazo de armazenamento e exclusão
+
+Os dados são mantidos somente pelo período necessário para:
+
+1. registrar o pedido;
+2. confirmar o pagamento;
+3. realizar a postagem;
+4. acompanhar a entrega; e
+5. confirmar que o comprador recebeu o produto.
+
+**Após a confirmação do recebimento da compra, os dados pessoais armazenados especificamente na planilha de controle de pedidos serão excluídos**, salvo quando a manutenção de determinada informação for necessária para cumprimento de obrigação legal, regulatória ou exercício regular de direitos.
+
+A LGPD prevê hipóteses de término do tratamento e também situações específicas nas quais determinados dados podem ser conservados após esse término.
+
+As etiquetas ou documentos físicos eventualmente gerados para a postagem também deverão ser descartados de maneira segura quando não forem mais necessários.
+
+## 9. Contato pelo WhatsApp ou e-mail
+
+Durante o processamento do pedido, o comprador poderá receber comunicações exclusivamente relacionadas à compra por:
+
+**WhatsApp:** (31) 98777-8667
+**E-mail:** [silmar_vasconcelos@yahoo.com](mailto:silmar_vasconcelos@yahoo.com)
+
+Esses canais também poderão ser utilizados pelo comprador para:
+
+* comunicar o pagamento;
+* consultar seu pedido;
+* corrigir informações;
+* informar problemas na entrega;
+* confirmar o recebimento;
+* solicitar informações sobre seus dados pessoais.
+
+O fornecimento dos dados para uma compra **não significa autorização automática para recebimento de publicidade ou mensagens promocionais futuras**.
+
+## 10. Cookies e rastreamento
+
+Este site **não utiliza cookies de publicidade ou mecanismos destinados ao rastreamento do comportamento dos visitantes**.
+
+Também não são utilizados os dados fornecidos no formulário para criação de perfis de navegação ou monitoramento comportamental.
+
+Caso futuramente sejam adicionadas ferramentas de análise, publicidade, cookies ou tecnologias semelhantes, esta Política de Privacidade deverá ser atualizada antes de sua utilização.
+
+## 11. Segurança e confidencialidade
+
+A privacidade dos compradores é considerada parte essencial do processo de venda.
+
+São adotadas medidas para:
+
+* limitar o acesso aos dados;
+* manter as informações em ambiente protegido por autenticação;
+* evitar compartilhamentos desnecessários;
+* utilizar os dados exclusivamente para as finalidades informadas;
+* eliminar os registros quando deixarem de ser necessários;
+* reduzir a quantidade de informações pessoais armazenadas.
+
+Nenhum sistema eletrônico pode oferecer garantia absoluta contra todos os incidentes, mas serão adotadas medidas razoáveis de segurança compatíveis com a natureza e a quantidade dos dados tratados.
+
+## 12. Direitos do titular dos dados
+
+O titular poderá entrar em contato para exercer os direitos previstos na legislação aplicável, incluindo, conforme o caso:
+
+* confirmação da existência de tratamento;
+* acesso aos seus dados;
+* correção de informações incompletas, inexatas ou desatualizadas;
+* informação sobre o tratamento realizado;
+* solicitação de exclusão dos dados, quando aplicável;
+* revogação do consentimento, nas situações em que o tratamento estiver fundamentado em consentimento.
+
+Esses direitos são previstos pela LGPD e apresentados pela Autoridade Nacional de Proteção de Dados — ANPD.
+
+As solicitações poderão ser encaminhadas para:
+
+**Silmar Vasconcelos**
+**E-mail:** [silmar_vasconcelos@yahoo.com](mailto:silmar_vasconcelos@yahoo.com)
+**WhatsApp:** (31) 98777-8667
+
+## 13. Alterações desta Política
+
+Esta Política poderá ser atualizada quando houver alterações no funcionamento do site, nos meios de pagamento, formas de entrega, tecnologias utilizadas ou procedimentos relacionados ao tratamento de dados pessoais.
+
+A versão vigente deverá permanecer disponível neste site, acompanhada da data de sua última atualização.
+
+---
+
+**Silmar Vasconcelos**
+Responsável pelo site e pelo tratamento dos dados pessoais
+
+Instagram: **@silmarvasconcelos**
+WhatsApp: **(31) 98777-8667**
+E-mail: **[silmar_vasconcelos@yahoo.com](mailto:silmar_vasconcelos@yahoo.com)**
+
