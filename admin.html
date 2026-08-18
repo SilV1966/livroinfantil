@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gerador de cadastro de livro</title>
+  <style>
+    body{font-family:system-ui;max-width:850px;margin:40px auto;padding:0 20px;background:#fffaf2;color:#23302a}
+    h1{font-family:Georgia,serif}form{display:grid;grid-template-columns:1fr 1fr;gap:14px;background:white;padding:24px;border-radius:22px;box-shadow:0 12px 35px #00000012}
+    label{font-size:.82rem;font-weight:700}input,textarea{width:100%;box-sizing:border-box;padding:10px;border:1px solid #ccc;border-radius:10px;margin-top:5px}
+    .full{grid-column:1/-1}button{padding:12px 18px;border:0;border-radius:999px;background:#23302a;color:white;font-weight:700;cursor:pointer}
+    pre{white-space:pre-wrap;background:#23302a;color:white;padding:18px;border-radius:16px;overflow:auto}
+  </style>
+</head>
+<body>
+  <h1>Gerador de novo livro</h1>
+  <p>Esta ferramenta gera o bloco de dados que você deverá colar no arquivo <code>js/books.js</code>. Em uma fase futura, pode ser substituída por um painel administrativo com login.</p>
+  <form id="f">
+    <label>Título<input name="title" required></label>
+    <label>Título curto<input name="shortTitle" required></label>
+    <label>Subtítulo<input name="subtitle"></label>
+    <label>Preço<input name="price" type="number" step=".01" required></label>
+    <label>Cor principal<input name="color" type="color" value="#f3cb63"></label>
+    <label>Faixa etária<input name="age" placeholder="Faixa etária sugerida: 4 a 9 anos"></label>
+    <label class="full">Tema<input name="theme" placeholder="Amizade • empatia • coragem"></label>
+    <label class="full">Descrição curta<textarea name="description" rows="3"></textarea></label>
+    <label class="full">Descrição longa<textarea name="longDescription" rows="5"></textarea></label>
+    <label class="full">Tags separadas por vírgula<input name="tags"></label>
+    <label class="full">Caminho da capa<input name="cover" placeholder="assets/images/nome-do-livro.jpg"></label>
+    <div class="full"><button>Gerar cadastro</button></div>
+  </form>
+  <h2>Bloco gerado</h2>
+  <pre id="out">Preencha o formulário.</pre>
+  <script>
+    document.getElementById("f").addEventListener("submit", e=>{
+      e.preventDefault();
+      const d=Object.fromEntries(new FormData(e.currentTarget).entries());
+      const obj={
+        id:d.shortTitle.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").replace(/[^a-z0-9]+/g,"-").replace(/^-|-$/g,""),
+        title:d.title, shortTitle:d.shortTitle, subtitle:d.subtitle,
+        theme:d.theme, age:d.age, price:Number(d.price), color:d.color,
+        description:d.description,longDescription:d.longDescription,
+        tags:d.tags.split(",").map(x=>x.trim()).filter(Boolean),cover:d.cover
+      };
+      document.getElementById("out").textContent=JSON.stringify(obj,null,2)+",";
+    });
+  </script>
+</body>
+</html>
