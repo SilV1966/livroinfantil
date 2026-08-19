@@ -43,6 +43,6 @@ window.BOOKS = [
     description: "Uma personagem que cuida de tudo e de todos nos lembra que diferenças não diminuem ninguém — e que quem cuida também merece ser cuidado.",
     longDescription: "Dona Cuidado transforma a atenção aos pequenos detalhes em gesto de afeto. A história abre espaço para conversas sobre diferença, autonomia, empatia, autoestima e reciprocidade.",
     tags: ["cuidado", "inclusão", "empatia", "autoestima"],
-    cover: "assets/images/capaDonaCuidado.jpg"
+    cover: "assets/images/capaDonaCuidado.png"
   }
 ];
