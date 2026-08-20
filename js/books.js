@@ -10,7 +10,7 @@ window.BOOKS = [
     subtitle: "O tesouro da amizade",
     theme: "Amizade • pertencimento • descoberta",
     age: "Faixa etária sugerida: 4 a 9 anos",
-    price: 55.00,
+    price: 00.00,
     color: "#f3cb63",
     description: "Uma aventura delicada sobre amizade, convivência e os tesouros que só aparecem quando aprendemos a caminhar ao lado de alguém.",
     longDescription: "Aurelina conduz o leitor por uma história luminosa em que o verdadeiro tesouro não está escondido em um baú, mas nas relações que construímos. Ideal para leitura em família, rodas de conversa e atividades escolares.",
